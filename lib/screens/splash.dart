@@ -1,0 +1,1 @@
+// splash is integrated with the main.dart
